@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mostafa Nasser</h1>
 <p>A full stack developer</p>
 <h4>💫 About Me:</h4>
-<br/>
+<hr/>
 I am a Software Engineer with a strong foundation in JavaScript, TypeScript, and C#, specializing in building scalable <br>web applications. Proficient in modern frameworks and tools, including Next.js, .NET, and TailwindCSS. <br>Experienced in both SQL (MySQL, SQL Server) and NoSQL (MongoDB) databases, with a passion for crafting <br>efficient and user-friendly solutions. 
 
 <h2>🚀 Languages and Tools I Use</h2>
