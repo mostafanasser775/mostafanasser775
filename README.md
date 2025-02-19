@@ -63,7 +63,7 @@ With expertise in **JavaScript, TypeScript, and C#**, I craft solutions that are
 
 📩 **Email:** [alnasser401@outlook.com](mailto:alnasser401@outlook.com)  
 🔗 **GitHub:** [github.com/mostafanasser775](https://github.com/mostafanasser775)  
-🔗 **LinkedIn:** *(Add your LinkedIn profile if available!)*  
+🔗 **LinkedIn:** [Mostafa Nasser](https://www.linkedin.com/in/mostafa-nasser-528b731b0/)  
 
 ---
 
