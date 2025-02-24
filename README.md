@@ -52,12 +52,6 @@ With expertise in **JavaScript, TypeScript, and C#**, I craft solutions that are
 🔹 **AI & GPT Integration** for intelligent applications  
 🔹 **Advanced performance optimization techniques**  
 
----
-
-## 📌 Blog & Articles  
-📢 *(Coming Soon!)* I will be sharing my thoughts on web development, performance optimizations, and AI integrations.  
-
-
 
 ## 📫 Let's Connect  
 
