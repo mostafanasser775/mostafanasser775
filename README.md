@@ -19,7 +19,7 @@ I am a **Full-Stack Developer** passionate about designing and building **scalab
 
 ## 📌 Notable Projects  
 
-### 🛍️ [Marketplace App](https://github.com/mostafanasser775/Marketplace-Application)  
+### 🛍️ [Marketplace App](https://github.com/mostafanasser775/Digital-MarketPlace)  
 - A **full-fledged e-commerce platform** with authentication and payment integration.  
 - **Tech Stack:** Next.js, Strapi, TailwindCSS, Stripe, Clerk.  
 - **Features:** Product listing, secure Stripe payments, authentication, and order management.
