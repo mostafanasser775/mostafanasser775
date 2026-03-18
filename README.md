@@ -17,33 +17,6 @@ I am a **Full-Stack Developer** passionate about designing and building **scalab
 
 ---
 
-## 📌 Notable Projects  
-
-### 🛍️ [Marketplace App](https://github.com/mostafanasser775/Digital-MarketPlace)  
-- A **full-fledged e-commerce platform** with authentication and payment integration.  
-- **Tech Stack:** Next.js, Strapi, TailwindCSS, Stripe, Clerk.  
-- **Features:** Product listing, secure Stripe payments, authentication, and order management.
-
-### 🎓 [LMS Platform](https://github.com/mostafanasser775/platform-lms)  
-- A **Learning Management System** where users can **purchase and access courses**, while admins manage content.  
-- **Tech Stack:** Next.js, Drizzle ORM, PostgreSQL, Cloudinary, Clerk, Stripe.  
-- **Features:** Video lessons, course tracking, role-based access, refunds, and payment handling.
-
-### 🤖 [AI-Powered Form Builder](https://github.com/mostafanasser775/Project-Task)  
-- A **dynamic AI-driven form generation tool**.  
-- **Tech Stack:** Next.js, OpenAI, Drizzle ORM, Next-Auth, Stripe.  
-- **Features:** GPT-powered form creation, authentication, subscription system, and secure data handling.
-
----
-
-## 📚 What I'm Learning
-- **Microservices Architecture** for building scalable and distributed applications  
-- **NestJS** for structured and scalable backend development  
-- **AI & GPT Integration** for next-gen intelligent applications  
-- **Advanced performance optimization** techniques for web applications  
-
----
-
 ## 📫 Let's Connect  
 📩 **Email:** [alnasser401@outlook.com](mailto:alnasser401@outlook.com)  
 🔗 **GitHub:** [github.com/mostafanasser775](https://github.com/mostafanasser775)  
