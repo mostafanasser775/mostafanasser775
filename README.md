@@ -35,8 +35,7 @@ I build web applications across fintech, trading, investment research, and busin
 
 - [Malora](https://malora.ai/) - financial and legal tools for feasibility studies, audits, and Zakat calculations.
 - [Art Packaging](https://artpackaging.com.sa/en) - packaging products, offset printing, and custom boxes.
-[- [Oxygen](https://oxygen.ressan.ventures/) - pivot-irrigation management and water distribution.
-](url)- [Fzah](https://fzah-sa.com/) - wellness bookings for fitness, yoga, and Pilates.
+- [Fzah](https://fzah-sa.com/) - wellness bookings for fitness, yoga, and Pilates.
 
 ## Technical Skills
 
